@@ -1,4 +1,4 @@
-import OTPInput from "./components/otp-input";
+import OTPInput from "./components/otpinput";
 
 function App() {
   return (
