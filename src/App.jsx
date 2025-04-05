@@ -1,11 +1,5 @@
-import OtpInput from "./components/OtpInput";
-
 function App() {
-  return (
-    <>
-      <OtpInput />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
