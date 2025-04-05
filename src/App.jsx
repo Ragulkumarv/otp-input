@@ -1,9 +1,9 @@
-import OTPInput from "./components/otpinput";
+import OtpInput from "./components/OtpInput";
 
 function App() {
   return (
     <>
-      <OTPInput />
+      <OtpInput />
     </>
   );
 }
